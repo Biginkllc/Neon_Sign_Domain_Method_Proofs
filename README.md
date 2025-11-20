@@ -61,3 +61,11 @@ Commercial use, reproduction, or manufacture of any design shown here requires m
 
 (These terms may be refined in future commits.)
 
+
+---
+
+## Logged Prototype Files
+
+- `NSDM_24kwith_crypto_PawnshopWindowNeon_v0.1.png`  
+  First visual prototype of the **24kwith.crypto** domain as a pawnshop window neon sign, used to demonstrate the Neon Sign Domain Method (NSDM) for precious metals and retail signage.
+
