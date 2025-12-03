@@ -77,7 +77,22 @@ All designs are delivered as PNG files in multiple resolutions.
 
 A simple certificate is provided with every order.
 
----
+------
+
+## Certificate of Licensed Use (Blockyright™)
+
+All NSDM design packages include an official Blockyright™ Certificate of Licensed Use.  
+This certificate documents:
+
+- Authorship  
+- Usage rights granted  
+- License type  
+- Provenance  
+- Permission for physical sign fabrication (if applicable)
+
+👉 **You can view the template here:**  
+[Blockyright Certificate Template](Blockyright_Certificate_Template.md)
+
 
 ## Blockyright™ — Intellectual Property Notice
 
