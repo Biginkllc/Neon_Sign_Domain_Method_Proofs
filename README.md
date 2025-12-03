@@ -69,3 +69,10 @@ Commercial use, reproduction, or manufacture of any design shown here requires m
 - `NSDM_24kwith_crypto_PawnshopWindowNeon_v0.1.png`  
   First visual prototype of the **24kwith.crypto** domain as a pawnshop window neon sign, used to demonstrate the Neon Sign Domain Method (NSDM) for precious metals and retail signage.
 
+
+---
+
+### Blockyright™ Notice
+All neon prototypes and written methods in this repository are protected under Blockyright™, created by Lloyd W. Jones Jr.  
+Commercial use requires an NSDM license.
+
