@@ -71,6 +71,15 @@ Commercial use, reproduction, or manufacture of any design shown here requires m
 
 
 ---
+---
+
+## Ordering NSDM Designs
+
+If you would like to commission a neon-style domain prototype or purchase a package, see:
+
+👉 **[How to Order NSDM Designs](How_to_Order_NSDM_Designs.md)**
+
+This page includes pricing tiers, package details, delivery information, and licensing terms.
 
 ### Blockyright™ Notice
 All neon prototypes and written methods in this repository are protected under Blockyright™, created by Lloyd W. Jones Jr.  
