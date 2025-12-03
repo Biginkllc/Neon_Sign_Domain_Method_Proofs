@@ -76,3 +76,15 @@ All designs are delivered as PNG files in multiple resolutions.
 - Physical sign fabrication requires the license add-on.
 
 A simple certificate is provided with every order.
+
+---
+
+## Blockyright™ — Intellectual Property Notice
+
+All NSDM neon designs, prototypes, naming structures, pricing tiers, written methods, and associated materials in this repository are protected under **Blockyright™**, the original rights framework developed by Lloyd W. Jones Jr.
+
+You are granted limited usage rights only through a purchased NSDM package.  
+No design, image, or method may be copied, reproduced, resold, or fabricated without an active NSDM license or written permission from the creator.
+
+© Lloyd W. Jones Jr. — All Rights Reserved.
+
