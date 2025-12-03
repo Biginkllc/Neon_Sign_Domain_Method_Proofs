@@ -9,32 +9,40 @@ Below is the simple ordering process.
 
 ## 1. Choose Your Package
 
-### A. Single Neon Prototype – $35
-- One neon-style design  
-- One 1400×200 UD banner version  
-- One full-resolution version  
+### A. Basic Neon Prototype — **$35**
+- One single-style neon design  
+- 1400×200 UD banner version  
+- Full-resolution PNG  
 - Blockyright™ provenance  
-- Personal or business use license  
+- License for digital use  
 
-### B. Premium Neon Set (3 variations) – $95
-- Three color/style variations  
-- UD banner versions of each  
-- Full-resolution files  
+---
+
+### B. Premium Neon Set (3 variations) — **$95**
+- Three style/color variations  
+- All UD banner versions included  
+- Full-resolution PNGs  
 - Blockyright™ provenance  
 - License for digital + physical signage  
 
-### C. Domain + Neon Identity Package (Design + Domain) – from $199
-(Only for domains I personally own.)
+---
+
+### C. Domain + Neon Identity Package — **$199 to $2,500**
+(Available only for domains personally owned by Lloyd W. Jones Jr.)
 - Transfer of domain name  
-- One or more neon identity designs  
+- One neon identity design (or more if required)  
+- UD banner versions  
 - Blockyright™ provenance  
-- License for digital + physical signage  
+- License for full commercial use  
 - Optional IPFS-based certificate of originality  
 
-### D. Physical Sign License Add-On – $99
-For customers who want to fabricate a real neon or LED sign using the NSDM design.
-- Certificate granting fabrication rights  
-- Valid for a single business location  
+---
+
+### D. Physical Sign Fabrication License — **$99**
+Required if the buyer wants a real neon or LED sign manufactured.
+- Permission for sign shops to fabricate  
+- Valid for one business location  
+- Certificate included  
 
 ---
 
